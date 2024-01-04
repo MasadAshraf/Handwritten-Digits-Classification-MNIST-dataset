@@ -1,1 +1,1 @@
-# -a-year-ago589-B-Handwritten-Digits-Classification-MNIST-dataset
+# Handwritten-Digits-Classification-MNIST-dataset
